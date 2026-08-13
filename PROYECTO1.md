@@ -18,21 +18,6 @@
 * 🚀 **Plataforma desplegada en vivo:** [Visitar sitio web](https://proyectocbtis-production.up.railway.app/) *(Acceso público limitado por políticas de seguridad de la institución)*.
 * 📄 **Documentación general del proyecto:** [Ver documento en Google Docs](https://docs.google.com/document/d/12KGZwENQM1iTS7jeC4to_bEASVrhGF2bc1ODYQ03ABg/edit?usp=sharing)
 
----
-
-### 📸 Manual de Software y Capturas
-
-| Módulo de Administración & CRUD | Arquitectura de Pase de Lista A2F |
-| :---: | :---: |
-| ![Captura Panel Admin](./assets/captura_admin.png) | ![Captura A2F](./assets/captura_a2f.png) |
-| *Gestión dinámica de usuarios, grupos, asignaturas y calificaciones en MySQL.* | *Generación de códigos dinámicos por clase para validar presencia física en aula.* |
-
-| Dispositivo Biométrico IoT (Arduino + Python) | Vista de Alumnos y Horarios (React Native) |
-| :---: | :---: |
-| ![Foto Arduino](./assets/foto_hardware.jpg) | ![Captura App](./assets/captura_app.png) |
-| *Sensor de huella dactilar conectado vía red hacia el backend en Python.* | *Interfaz adaptable para consulta de estatus, calificaciones y notificaciones.* |
-
----
 
 ## 🛠️ Mi Rol en el Proyecto (Tech Lead & DB Architect)
 
