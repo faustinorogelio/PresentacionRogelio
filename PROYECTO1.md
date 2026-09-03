@@ -13,7 +13,7 @@
 
 ---
 
-## 🔗 Demo en Línea y Documentación del Sistema
+## Demo en Línea y Documentación del Sistema
 
 *  **Plataforma desplegada en vivo:** [Visitar sitio web](https://proyectocbtis-production.up.railway.app/) *(Acceso público limitado por políticas de seguridad de la institución)*.
 * **Documentación general del proyecto:** [Ver documento en Google Docs](https://docs.google.com/document/d/12KGZwENQM1iTS7jeC4to_bEASVrhGF2bc1ODYQ03ABg/edit?usp=sharing)
