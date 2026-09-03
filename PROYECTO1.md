@@ -58,5 +58,5 @@ Para evitar registros falsos o remotos:
 * **Hardware / IoT:** Arduino, Sensor Biométrico de Huella Dactilar.
 
 
-##DEMOSTRACIÓN CON VIDEO: 
+## DEMOSTRACIÓN EN VIDEO: 
 https://drive.google.com/file/d/1HZrOVW7hocR2damSHfd-TGdFiOarNuX1/view?usp=sharing
