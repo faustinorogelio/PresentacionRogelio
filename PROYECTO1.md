@@ -36,6 +36,8 @@ Como líder técnico del equipo, estuve a cargo de la arquitectura backend, la i
 El sistema integra hardware físico con servicios en la nube para el control de accesos:
 $$\text{Sensor Biométrico (Arduino)} \xrightarrow{\text{Petición HTTP / JSON}} \text{API Backend (Python / Railway)} \xrightarrow{\text{Transacción SQL}} \text{Base de Datos (MySQL)}$$
 
+
+
 ### 2. Pase de Lista Anti-Fraude (A2F Dinámico)
 Para evitar registros falsos o remotos:
 * El docente genera un código dinámico de baja duración ligado a la sesión de clase activa.
@@ -54,3 +56,7 @@ Para evitar registros falsos o remotos:
 * **Frontend:** React Native / React Native Web (Compatible con Android, iOS y Navegador Web).
 * **DevOps & Despliegue:** Docker, Railway, Git & GitHub.
 * **Hardware / IoT:** Arduino, Sensor Biométrico de Huella Dactilar.
+
+
+##DEMOSTRACIÓN CON VIDEO: 
+https://drive.google.com/file/d/1HZrOVW7hocR2damSHfd-TGdFiOarNuX1/view?usp=sharing
